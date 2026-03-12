@@ -1,5 +1,7 @@
 # Daily Motivation ✨ — Motivational Quotes App
 
+🔗 **Live Demo:** [motivation-dashboard.vercel.app](https://motivation-dashboard.vercel.app)
+
 A React-based web app that fetches random motivational quotes and lets you **like**, **collect**, and **persist** your favourites.
 
 ---
